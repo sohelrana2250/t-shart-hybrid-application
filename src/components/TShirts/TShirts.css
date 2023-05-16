@@ -1,0 +1,13 @@
+.T-Shirts {
+    margin-left: 20px;
+
+    border: 2px solid tomato;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.T-Shirts img {
+
+    height: 250px;
+    padding-bottom: 20px;
+}

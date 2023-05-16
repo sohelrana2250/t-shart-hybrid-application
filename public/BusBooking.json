@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-05-10",
+        "time": "8:00 PM",
+        "start_location": "Dhaka",
+        "end_location": "Chittagong",
+        "available_seats": 10,
+        "bus_name": "Hanif Enterprices",
+        "Bus_number": 460
+    },
+    {
+        "date": "2023-05-10",
+        "time": "8:30 PM",
+        "start_location": "Dhaka",
+        "end_location": "Chittagong",
+        "available_seats": 10,
+        "bus_name": "Nabil Poribhoan",
+        "Bus_number": 410
+    },
+    {
+        "date": "2023-05-10",
+        "time": "9:00 PM",
+        "start_location": "Dhaka",
+        "end_location": "Chittagong",
+        "available_seats": 10,
+        "bus_name": "Nabil Poribhoan",
+        "Bus_number": 467
+    },
+    {
+        "date": "2023-05-10",
+        "time": "8:00 PM",
+        "start_location": "Dhaka",
+        "end_location": "Chittagong",
+        "available_seats": 10,
+        "bus_name": "Hanif Enterprices",
+        "Bus_number": 464
+    }
+]
